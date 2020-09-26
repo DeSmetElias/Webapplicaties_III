@@ -56,7 +56,7 @@ Wat is MVC?
 
 - Het *ontwikkelen* van .NET Core applicaties kan in *verschillende talen*. Aangezien het door **Roslyn** gecompileerd wordt naar de **Microsoft Intermediate Language** (MSIL).
 
-Werking: Code wordt gecompileerd door de *Roslyn* compiler naar de *Microsoft Intermediate Language* (MSIL). Deze file noemt men de *assembly*. Vervolgens wordt MSIL vertaald door de RyuJIT compiler naar machine code. De **assembly** bevat een .dll of .exe bestand met de gecompileerde klassen en dergelijke.
+>Werking: Code wordt gecompileerd door de *Roslyn* compiler naar de *Microsoft Intermediate Language* (MSIL). Deze file noemt men de *assembly*. Vervolgens wordt MSIL vertaald door de RyuJIT compiler naar machine code. De **assembly** bevat een .dll of .exe bestand met de gecompileerde klassen en dergelijke.
 
 - HTTP staat voor Hypertext Transfer Protocol en is het **request-response protocol** binnen een *client-server* model. Dit protocol is **STATELESS** m.a.w. elk request staat op zichzelf. De server heeft geen geheugen en houdt dus geen status bij. Eventuele oplossingen hiervoor zijn Cookies.
 
