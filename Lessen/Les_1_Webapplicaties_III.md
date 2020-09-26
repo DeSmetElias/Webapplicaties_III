@@ -48,7 +48,7 @@ Wat is MVC?
 - Verantwoordelijkheden: datamodel (= model), datapresentatie (= view) en applicatielogica (= controller).
 - Waarom? Het scheiden van deze verantwoordelijkheden bevordert de leesbaarheid en herbruikbaarheid van code.
 
-![](C:\Users\elias\Desktop\School\Webapplicaties_III\Lessen\Afbeeldingen\MVC Explained.png)
+![](Webapplicaties_III\Lessen\Afbeeldingen\MVC Explained.png)
 
 
 
