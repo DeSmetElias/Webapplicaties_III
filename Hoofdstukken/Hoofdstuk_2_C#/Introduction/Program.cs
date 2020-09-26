@@ -195,13 +195,38 @@ namespace Introduction {
 
             };
 
-            Console.WriteLine(numberGrid[0,1]);
+            Console.WriteLine(numberGrid[0, 1]);
 
             Console.ReadLine();
         }
 
+        private static void Output14() { // constructor
+            Book book1 = new Book("Harry Potter", "JK Rowling", 400);
+            Book book2 = new Book("Lord of the Rings", "Tolkein", 700);
+
+
+            /*
+            Book book1 = new Book();
+            book1.title = "Harry Potter";
+            book1.author = "JK Rowling";
+            book1.pages = 400;
+
+            Book book2 = new Book();
+            book2.title = "Lord of the Rings";
+            book2.author = "Tolkein";
+            book2.pages = 700;
+            */
+
+            Console.WriteLine(book1.author);
+            Console.WriteLine(book1.title);
+            Console.WriteLine(book2.title);
+
+            Console.ReadLine();
+
+        }
+
         static void Main(string[] args) { // main method
-            Output13();
+            Output14();
         }
     }
 }
