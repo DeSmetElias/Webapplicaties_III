@@ -5,7 +5,7 @@
 ### Hoofdstuk 1: Inleiding
  - [Slides Hoofdstuk 1](https://webiii.github.io/portal/docs/H01/WIII_01_Inleiding.pdf)
  - Oefening: HelloVisualStudio_VersieLes --> [link](https://github.com/DeSmetElias/Webapplicaties_III/tree/master/Hoofdstukken/Hoofdstuk_1_Inleiding/HelloVisualStudio_VersieLes)
-
+ - Samenvatting: [H1](https://github.com/DeSmetElias/Webapplicaties_III/blob/master/Lessen/Les_1_Webapplicaties_III.md).
 
 ### Hoofdstuk 2: Introductie C#
 Zelfstudie
