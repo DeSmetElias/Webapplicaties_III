@@ -67,7 +67,7 @@ namespace Introduction {
             Console.WriteLine(Math.Max(4, 90) + " == 90");
             Console.WriteLine(Math.Round(3.2) + " == 3");
 
-            Console.ReadLine();
+            Console.ReadLine(); // shows the output
         }
 
         static void Main(string[] args) { // main method
