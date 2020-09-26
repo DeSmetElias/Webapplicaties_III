@@ -1,11 +1,8 @@
 ﻿using System;
+using System.Net;
 
 namespace Introduction {
     class Program { // class
-        static void Main(string[] args) { // main method
-            Output4();
-        }
-
         private static void Output1() {
             Console.WriteLine("Hello World");
             Console.ReadLine();
@@ -40,8 +37,41 @@ namespace Introduction {
             bool isMale = false;
 
             Console.WriteLine(phrase);
+            Console.WriteLine(grade);
+            Console.WriteLine(age);
+            Console.WriteLine(gpa);
+            Console.WriteLine(isMale);
 
             Console.ReadLine();
+        }
+
+        private static void Output5() {
+            string phrase = "Giraffe Acadamy";
+
+            Console.WriteLine(phrase);
+            Console.WriteLine(phrase.Length + " == 15");
+            Console.WriteLine(phrase.ToUpper() + " == GIRAFFE ACADEMY");
+            Console.WriteLine(phrase.Contains("Acadamy") + " == True");
+            Console.WriteLine(phrase[0] + " == G");
+            Console.WriteLine(phrase.IndexOf('f') + " == 4");
+            Console.WriteLine(phrase.Substring(8, 3) + " == Ace");
+
+            Console.ReadLine();
+        }
+
+        private static void Output6() {
+
+            Console.WriteLine(Math.Abs(-10) + " == 10");
+            Console.WriteLine(Math.Pow(8, 2) + " == 64");
+            Console.WriteLine(Math.Sqrt(36) + " == 6");
+            Console.WriteLine(Math.Max(4, 90) + " == 90");
+            Console.WriteLine(Math.Round(3.2) + " == 3");
+
+            Console.ReadLine();
+        }
+
+        static void Main(string[] args) { // main method
+            Output6();
         }
     }
 }
