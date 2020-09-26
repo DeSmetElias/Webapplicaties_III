@@ -45,10 +45,9 @@ Webapplicaties III: technologie aan server side.
 Wat is MVC?
 
 - MVC staat voor Model Controller View en is een design patroon dat het ontwerp van complexe toepassingen opdeelt in drie eenheden met verschillende verantwoordelijkheden. 
-- Verantwoordelijkheden: datamodel (= model), datapresentatie (= view) en applicatielogica (= controller).
+- Verantwoordelijkheden: datamodel (= model), datapresentatie (= view) en applicatielogica (= controller). [Afbeelding werking MVC](https://github.com/DeSmetElias/Webapplicaties_III/blob/master/Lessen/Afbeeldingen/MVC%20Explained.png)
 - Waarom? Het scheiden van deze verantwoordelijkheden bevordert de leesbaarheid en herbruikbaarheid van code.
 
-[afbeelding MVC](https://github.com/DeSmetElias/Webapplicaties_III/blob/master/Lessen/Afbeeldingen/MVC%20Explained.png)
 
 
 
