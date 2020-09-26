@@ -48,6 +48,8 @@ Wat is MVC?
 - Verantwoordelijkheden: datamodel (= model), datapresentatie (= view) en applicatielogica (= controller). [Afbeelding werking MVC](https://github.com/DeSmetElias/Webapplicaties_III/blob/master/Lessen/Afbeeldingen/MVC%20Explained.png)
 - Voordeel? Het scheiden van deze verantwoordelijkheden bevordert de leesbaarheid en herbruikbaarheid van code.
 
+- ORM Entity Framework maakt van een relationele data een object.
+
 ### B. Exploring .NET Core
 
 - **.NET Core** is een *open source ontwikkelingsplatform.* Het is de cross platform versie van het .NET Framework en ondersteund *web, cloud, IoT, ML en desktop applicaties*.
