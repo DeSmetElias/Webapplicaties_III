@@ -225,8 +225,30 @@ namespace Introduction {
 
         }
 
+        private static void Output15() {
+            Student student1 = new Student("Jim", "Business", 2.8);
+            Student student2 = new Student("Pam", "Art", 3.6);
+
+            Console.WriteLine(student1.HasHoners());
+            Console.WriteLine(student2.HasHoners());
+
+            Console.ReadLine();
+        }
+
+        private static void Output16() {
+
+            Movie avengers = new Movie("The Avengers", "Joss Whedon", "PG-13");
+            Movie shrek = new Movie("Shrek", "Adam Adamson", "dog");
+
+            Console.WriteLine(avengers.Rating);
+            Console.WriteLine(shrek.Rating);
+
+            Console.ReadLine();
+
+        }
+
         static void Main(string[] args) { // main method
-            Output14();
+            Output16();
         }
     }
 }
