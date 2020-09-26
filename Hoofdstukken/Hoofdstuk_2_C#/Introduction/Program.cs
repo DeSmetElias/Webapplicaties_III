@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Net;
+using System.Runtime.InteropServices;
 using System.Transactions;
 
 namespace Introduction {
@@ -247,8 +248,18 @@ namespace Introduction {
 
         }
 
+        private static void Output17() {
+            Movie movie1 = new Movie("The Avengers", "Joss Whedon", "PG-13");
+            movie1.MakeIheritanceMethod1();
+
+            ComedyMovie comedy1 = new ComedyMovie();
+            comedy1.MakeIheritanceMethod1();
+
+            Console.ReadLine();
+        }
+
         static void Main(string[] args) { // main method
-            Output16();
+            Output17();
         }
     }
 }
