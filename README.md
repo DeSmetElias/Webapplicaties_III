@@ -15,3 +15,4 @@ Zelfstudie
 
 
 ### Hoofdstuk 3: Debugging
+- coming week 2
