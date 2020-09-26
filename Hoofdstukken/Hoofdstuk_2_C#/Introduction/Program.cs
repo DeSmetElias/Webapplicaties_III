@@ -225,7 +225,7 @@ namespace Introduction {
 
         }
 
-        private static void Output15() {
+        private static void Output15() { // methods
             Student student1 = new Student("Jim", "Business", 2.8);
             Student student2 = new Student("Pam", "Art", 3.6);
 
@@ -235,7 +235,7 @@ namespace Introduction {
             Console.ReadLine();
         }
 
-        private static void Output16() {
+        private static void Output16() { // getter and setters 
 
             Movie avengers = new Movie("The Avengers", "Joss Whedon", "PG-13");
             Movie shrek = new Movie("Shrek", "Adam Adamson", "dog");

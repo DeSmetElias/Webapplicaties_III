@@ -14,7 +14,7 @@ namespace Introduction {
             Rating = aRating;
         }
 
-        public string Rating {
+        public string Rating { // getter and setter
             get { return rating; }
             set {
                 if (value == "G" || value == "PG" || value == "PG-13" || value == "R" || value == "nr") {
