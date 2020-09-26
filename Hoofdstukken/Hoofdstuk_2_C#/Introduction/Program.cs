@@ -164,8 +164,44 @@ namespace Introduction {
             Console.ReadLine();
         }
 
+        private static void Output11() { // while loop
+            int index = 1;
+            while (index <= 5) {
+                Console.WriteLine(index);
+                index++;
+            }
+
+            Console.ReadLine();
+
+        }
+
+        private static void Output12() { // for loop
+
+            int[] numbers = { 1, 16, 12, 4, 9 };
+
+            foreach (int el in numbers) {
+                Console.WriteLine(el);
+            }
+
+            Console.ReadLine();
+        }
+
+        private static void Output13() { // 2D Array
+
+            int[,] numberGrid = {
+                {1, 2},
+                {4, 5},
+                { 9, 10}
+
+            };
+
+            Console.WriteLine(numberGrid[0,1]);
+
+            Console.ReadLine();
+        }
+
         static void Main(string[] args) { // main method
-            Output10();
+            Output13();
         }
     }
 }
