@@ -83,9 +83,9 @@ Wat is MVC?
 
 ### G. Appendix
 
-[C# Programming Guide]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/	"Guide"
-[Visual Studio Guide]: https://docs.microsoft.com/nl-nl/visualstudio/windows/?view=vs-2019&amp;preserve-view=true	"Guide"
-[Microsoft E-Learning platform]: https://channel9.msdn.com/
+[C# Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+[Visual Studio Guide](https://docs.microsoft.com/nl-nl/visualstudio/windows/?view=vs-2019&amp;preserve-view=true)
+[Microsoft E-Learning platform](https://channel9.msdn.com/)
 
 
 
