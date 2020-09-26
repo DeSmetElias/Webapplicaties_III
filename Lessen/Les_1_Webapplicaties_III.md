@@ -60,6 +60,31 @@ Werking: Code wordt gecompileerd door de *Roslyn* compiler naar de *Microsoft In
 
 
 
+### C. De ontwikkelomgeving
+
+- Geen leerstof.
+
+### D. De productieomgeving
+
+- Geen leerstof.
+
+### E. Inleiding tot Visual Studio
+
+- IntelliSense / IntelliCode --> tab om de code aan te vullen
+- Kies bij een nieuw project voor Console App (.NET Core) (= enkel in begin v/d cursus)
+- Using: imports in java
+- namespace: package in java 
+
+### F. En... wat nu?
+
+- Geen leerstof.
+
+### G. Appendix
+
+[C# Programming Guide]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/	"Guide"
+[Visual Studio Guide]: https://docs.microsoft.com/nl-nl/visualstudio/windows/?view=vs-2019&amp;preserve-view=true	"Guide"
+[Microsoft E-Learning platform]: https://channel9.msdn.com/
+
 
 
 
