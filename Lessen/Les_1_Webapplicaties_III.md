@@ -1,6 +1,6 @@
 # Webapplicaties III
 
-### Hoofdstuk 1: Inleiding
+## Hoofdstuk 1: Inleiding
 
 **Inhoudstabel**
 
@@ -14,9 +14,9 @@
 
 
 
-#### Overzicht en praktische inlichtingen
+### A. Overzicht en praktische inlichtingen
 
-Doelstellingen cursus:
+**Doelstellingen cursus:**
 
 > Maken van database gestuurde webapplicaties
 
@@ -30,13 +30,13 @@ Doelstellingen cursus:
 
 
 
-Webapplicaties I en II: technologieën aan cliënt-side.
+*Webapplicaties I en II*: technologieën aan cliënt-side.
 
 - HTML5
 - CSS3
 - Javascript
 
-Webapplicaties III: technologie aan server side.
+*Webapplicaties III*: technologie aan server side.
 
 - ASP.NET Core MVC
 
@@ -46,7 +46,21 @@ Wat is MVC?
 
 - MVC staat voor Model Controller View en is een design patroon dat het ontwerp van complexe toepassingen opdeelt in drie eenheden met verschillende verantwoordelijkheden. 
 - Verantwoordelijkheden: datamodel (= model), datapresentatie (= view) en applicatielogica (= controller). [Afbeelding werking MVC](https://github.com/DeSmetElias/Webapplicaties_III/blob/master/Lessen/Afbeeldingen/MVC%20Explained.png)
-- Waarom? Het scheiden van deze verantwoordelijkheden bevordert de leesbaarheid en herbruikbaarheid van code.
+- Voordeel? Het scheiden van deze verantwoordelijkheden bevordert de leesbaarheid en herbruikbaarheid van code.
+
+### B. Exploring .NET Core
+
+- **.NET Core** is een *open source ontwikkelingsplatform.* Het is de cross platform versie van het .NET Framework en ondersteund *web, cloud, IoT, ML en desktop applicaties*.
+
+- Het *ontwikkelen* van .NET Core applicaties kan in *verschillende talen*. Aangezien het door **Roslyn** gecompileerd wordt naar de **Microsoft Intermediate Language** (MSIL).
+
+Werking: Code wordt gecompileerd door de *Roslyn* compiler naar de *Microsoft Intermediate Language* (MSIL). Deze file noemt men de *assembly*. Vervolgens wordt MSIL vertaald door de RyuJIT compiler naar machine code. De **assembly** bevat een .dll of .exe bestand met de gecompileerde klassen en dergelijke.
+
+- HTTP staat voor Hypertext Transfer Protocol en is het **request-response protocol** binnen een *client-server* model. Dit protocol is **STATELESS** m.a.w. elk request staat op zichzelf. De server heeft geen geheugen en houdt dus geen status bij. Eventuele oplossingen hiervoor zijn Cookies.
+
+
+
+
 
 
 
