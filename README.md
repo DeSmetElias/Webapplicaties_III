@@ -8,7 +8,7 @@
  - Samenvatting: [H1](https://github.com/DeSmetElias/Webapplicaties_III/blob/master/Lessen/Les_1_Webapplicaties_III.md).
 
 **Hoofdstuk 2:** Introductie C#  
-Zelfstudie
+> Zelfstudie
 - [Slides Hoofdstuk 2](https://webiii.github.io/portal/docs/H02/WIII_H02_Csharp.pdf)
 -  Oefening: Introductie --> [link](https://github.com/DeSmetElias/Webapplicaties_III/tree/master/Hoofdstukken/Hoofdstuk_2_C%23/Introduction)
 - [Tutorial C# for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8&t=941s)
