@@ -16,3 +16,16 @@ Zelfstudie
 
 ### Hoofdstuk 3: Debugging
 - coming week 2
+
+
+
+## Lessen
+**Les 1:** 21/09/2020
+
+
+
+
+
+
+
+
